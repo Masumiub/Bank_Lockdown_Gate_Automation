@@ -1,0 +1,2 @@
+# Bank_Lockdown_Gate_Automation
+Due to lockdown, AB bank handles a limited number of customers each day (30 persons). To maintain social distance, these persons enter into the bank in 3 rounds. First, 10 people go and perform their task one after one. After 2 minutes, one of them leave the bank finishing their work. When all of the 10 persons leave the bank, 10 more people enter into the bank and perform their work. This continues until all the 30 people are served. 
